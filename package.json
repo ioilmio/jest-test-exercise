@@ -1,0 +1,23 @@
+{
+  "name": "jest-test-exercise",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "capitalize.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioilmio/jest-test-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioilmio/jest-test-exercise/issues"
+  },
+  "homepage": "https://github.com/ioilmio/jest-test-exercise#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
