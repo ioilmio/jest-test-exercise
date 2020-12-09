@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("From export fun watch"),function(o){console.log(o.charAt(0).toUpperCase()+o.slice(1)),o.charAt(0).toUpperCase(),o.slice(1)}("hello"),console.log("hello".split("").reverse().join(""))})();
